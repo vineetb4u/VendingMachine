@@ -1,0 +1,7 @@
+C:\Vineet\extra\Practice Apps\Plural\EF\VendingMachine\VendingMachine.Data\bin\Debug\VendingMachine.Data.dll
+C:\Vineet\extra\Practice Apps\Plural\EF\VendingMachine\VendingMachine.Data\bin\Debug\VendingMachine.Data.pdb
+C:\Vineet\extra\Practice Apps\Plural\EF\VendingMachine\VendingMachine.Data\bin\Debug\VendingMachine.Models.dll
+C:\Vineet\extra\Practice Apps\Plural\EF\VendingMachine\VendingMachine.Data\bin\Debug\VendingMachine.Models.pdb
+C:\Vineet\extra\Practice Apps\Plural\EF\VendingMachine\VendingMachine.Data\obj\Debug\VendingMachine.Data.csprojResolveAssemblyReference.cache
+C:\Vineet\extra\Practice Apps\Plural\EF\VendingMachine\VendingMachine.Data\obj\Debug\VendingMachine.Data.dll
+C:\Vineet\extra\Practice Apps\Plural\EF\VendingMachine\VendingMachine.Data\obj\Debug\VendingMachine.Data.pdb

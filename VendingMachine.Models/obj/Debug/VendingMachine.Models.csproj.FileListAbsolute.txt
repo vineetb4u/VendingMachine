@@ -1,0 +1,4 @@
+C:\Vineet\extra\Practice Apps\Plural\EF\VendingMachine\VendingMachine.Models\bin\Debug\VendingMachine.Models.dll
+C:\Vineet\extra\Practice Apps\Plural\EF\VendingMachine\VendingMachine.Models\bin\Debug\VendingMachine.Models.pdb
+C:\Vineet\extra\Practice Apps\Plural\EF\VendingMachine\VendingMachine.Models\obj\Debug\VendingMachine.Models.dll
+C:\Vineet\extra\Practice Apps\Plural\EF\VendingMachine\VendingMachine.Models\obj\Debug\VendingMachine.Models.pdb
