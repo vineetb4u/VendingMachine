@@ -70,11 +70,6 @@ namespace VendingMachine.Data.Repositories
             return query.ToList();
         }
 
-        public IEnumerable<Payment> FindBy(Expression<Func<Payment, bool>> predicate)
-        {
-            throw new NotImplementedException();
-        }
-
         public void Reset()
         {
             Payment pay;

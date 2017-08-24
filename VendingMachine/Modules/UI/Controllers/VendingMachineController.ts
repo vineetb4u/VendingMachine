@@ -101,6 +101,7 @@
             if (that.$scope.transaction.payment.amount > that.$scope.transaction.selectedFlavour.price)
             {
                 that.$scope.transaction.change = Math.round((that.$scope.transaction.payment.amount - that.$scope.transaction.selectedFlavour.price) * 1e12) / 1e12;
+                that.$scope.transaction.payment.paymentID = Math.floor(100000000 + Math.random() * 900000000);
                 that.$scope.transaction.payment.amount = Math.round((that.$scope.transaction.payment.amount - that.$scope.transaction.change) * 1e12) / 1e12;
 
                 that.processOrder();

@@ -1,4 +1,5 @@
 C:\Vineet\extra\Practice Apps\Plural\EF\VendingMachine\VendingMachine.Common\bin\Debug\VendingMachine.Common.dll
 C:\Vineet\extra\Practice Apps\Plural\EF\VendingMachine\VendingMachine.Common\bin\Debug\VendingMachine.Common.pdb
+C:\Vineet\extra\Practice Apps\Plural\EF\VendingMachine\VendingMachine.Common\obj\Debug\VendingMachine.Common.csprojResolveAssemblyReference.cache
 C:\Vineet\extra\Practice Apps\Plural\EF\VendingMachine\VendingMachine.Common\obj\Debug\VendingMachine.Common.dll
 C:\Vineet\extra\Practice Apps\Plural\EF\VendingMachine\VendingMachine.Common\obj\Debug\VendingMachine.Common.pdb

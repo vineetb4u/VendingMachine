@@ -9,7 +9,7 @@ using VendingMachine.Models;
 
 namespace VendingMachine.Data.Repositories
 {
-    public class DrinkCanRepository : IDrinkCanRepository, IDisposable
+    public class DrinkCanRepository : IDrinkCanRepository
     {
         private ConcurrentBag<DrinkCan> _inMemoryDb;
         private static DrinkCanRepository _instance;
@@ -55,11 +55,6 @@ namespace VendingMachine.Data.Repositories
         {
             var rec = Query().Where(c => c.Flavour == can.Flavour && c.IsSold == false).FirstOrDefault();
             rec.IsSold = true;
-        }
-
-        public IEnumerable<DrinkCan> FindBy(Expression<Func<DrinkCan, bool>> predicate)
-        {
-            throw new NotImplementedException();
         }
 
         public IEnumerable<DrinkCan> FindByCriteria(DrinkCanFindCriteria criteria)

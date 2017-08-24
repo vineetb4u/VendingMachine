@@ -9,7 +9,6 @@ namespace VendingMachine.Data.Contracts
         void Add(TEntity entity);
         void Delete(TEntity entity);
         void Update(TEntity entity);
-        IEnumerable<TEntity> FindBy(Expression<Func<TEntity, bool>> predicate);
         void Reset();
     }
 }
